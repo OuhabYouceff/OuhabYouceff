@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-As a second-year computer science student at "L'École supérieure privée d'ingénierie et de technologie," I am driven to become a skilled software engineer. I am proficient in HTML/CSS and JavaScript for client-side development, and PHP for server-side development. Additionally, I have experience with several other programming languages, including C, C++ and I have completed multiple projects, which have helped me develop a strong foundation in these languages.
+As a Fourth-year computer science student at "L'École supérieure privée d'ingénierie et de technologie," I am driven to become a skilled software engineer. My passion for computer science led me to pursue a computer engineering degree, and I am currently focusing on honing my skills and expanding my knowledge as a student.
+
+I’m passionate about AI and its potential to create meaningful solutions. My work focuses on generative AI, predictive analytics, and developing innovative systems that address real-world challenges. With a keen interest in multimodal AI and sustainable technologies, I aim to make a positive impact through tech-driven solutions.
+
+Let’s connect and collaborate! 🌟
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [ouhab.youceff@gmail.com](mailto:ouhab.youceff@gmail.com)
