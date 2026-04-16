@@ -1,3 +1,9 @@
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║           YOUCEF OUHAB — GitHub Profile README          ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
 ```
@@ -9,8 +15,8 @@
    ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝╚══════╝╚═╝     
 ```
 
-### Youcef Ouhab
-**CS & AI Engineering Student · Startup Founder · Tunis, TN**
+<h3>Youcef Ouhab</h3>
+<p><b>CS &amp; AI Engineering Student &nbsp;·&nbsp; Startup Founder &nbsp;·&nbsp; Tunis, TN</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youcef-ouhab/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.youcef-ouhab.com)
@@ -22,7 +28,7 @@
 
 ---
 
-## while (alive) { code(); }
+## `while (alive) { code(); }`
 
 Final-year CS & AI student at **ESPRIT** building at the intersection of generative AI, predictive analytics, and real-world product engineering. Currently founding a startup. Passionate about multimodal AI and sustainable tech — not just as research, but as **things worth shipping**.
 
@@ -34,36 +40,25 @@ Final-year CS & AI student at **ESPRIT** building at the intersection of generat
 
 <div align="center">
 
-<!-- 
-  ┌─────────────────────────────────────────────────────────┐
-  │  SETUP INSTRUCTIONS (remove this block after setup)     │
-  │                                                          │
-  │  1. Host tetris.html on your portfolio or GitHub Pages  │
-  │  2. Record a ~10s gameplay GIF (use LICEcap or Giphy)   │
-  │  3. Save the GIF as assets/tetris-preview.gif           │
-  │  4. Replace the placeholder below with:                 │
-  │                                                          │
-  │  [![Play Tetris](assets/tetris-preview.gif)](GAME_URL)  │
-  │                                                          │
-  └─────────────────────────────────────────────────────────┘
--->
+<!-- Replace the line below once you have your GIF recorded -->
+<!-- [![Play Tetris](assets/tetris-preview.gif)](https://www.youcef-ouhab.com/tetris) -->
 
-**[▶ Play Tetris — beat my score if you can](https://www.youcef-ouhab.com/tetris)**
+**[▶ Play now — youcef-ouhab.com/tetris](https://www.youcef-ouhab.com/tetris)**
 
-*← → move &nbsp;|&nbsp; ↑ rotate &nbsp;|&nbsp; ↓ drop &nbsp;|&nbsp; space = hard drop*
+*`← →` move &nbsp;·&nbsp; `↑` rotate &nbsp;·&nbsp; `↓` soft drop &nbsp;·&nbsp; `space` hard drop*
 
 </div>
 
 ---
 
-## 🧠 What I'm focused on
+## 🧠 Focus areas
 
-| Area | What I'm building |
-|------|-------------------|
-| ⚡ Generative AI | LLM-powered products, prompt engineering, AI agents |
-| 📊 Predictive analytics | ML pipelines for real business decision systems |
-| 👁️ Multimodal AI | Vision + language, cross-modal architectures |
-| 🌿 Sustainable tech | AI applied to climate and energy efficiency problems |
+| | Area | What I build |
+|---|---|---|
+| ⚡ | **Generative AI** | LLM-powered products, prompt engineering, AI agents |
+| 📊 | **Predictive analytics** | ML pipelines for real business decision systems |
+| 👁️ | **Multimodal AI** | Vision + language, cross-modal architectures |
+| 🌿 | **Sustainable tech** | AI applied to climate and energy efficiency |
 
 ---
 
@@ -81,7 +76,7 @@ Final-year CS & AI student at **ESPRIT** building at the intersection of generat
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-CC785C?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Frontend**
@@ -108,21 +103,9 @@ Final-year CS & AI student at **ESPRIT** building at the intersection of generat
 
 ---
 
-## 📈 GitHub stats
-
-<div align="center">
-
-![Youcef's GitHub stats](https://github-readme-stats.vercel.app/api?username=OuhabYouceff&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7F77DD&icon_color=7F77DD&text_color=888888)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OuhabYouceff&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7F77DD&text_color=888888)
-
-</div>
-
----
-
 ## 🤝 Let's build something
 
-I'm open to collaborations on AI projects, open source, or startup ideas. Reach out:
+I'm open to collaborations on AI projects, open source, or startup ideas.
 
 - 📧 [ouhab.youceff@gmail.com](mailto:ouhab.youceff@gmail.com)
 - 🌐 [youcef-ouhab.com](https://www.youcef-ouhab.com)
@@ -131,8 +114,6 @@ I'm open to collaborations on AI projects, open source, or startup ideas. Reach 
 <div align="center">
 
 ---
-
-*visitors*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=OuhabYouceff&style=flat-square&color=7F77DD)
 
