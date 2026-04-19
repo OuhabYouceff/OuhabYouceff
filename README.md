@@ -35,6 +35,7 @@ Final-year CS & AI student at **ESPRIT** building at the intersection of generat
 > *"The best way to predict the future is to build it."*
 
 ---
+
 ## 🕹️ Can you beat my Tetris score?
 <div align="center">
 
@@ -43,6 +44,7 @@ Final-year CS & AI student at **ESPRIT** building at the intersection of generat
 **[▶ Play now — youcef-ouhab.com/tetris](https://www.youcef-ouhab.com/tetris)**
 *`← →` move &nbsp;·&nbsp; `↑` rotate &nbsp;·&nbsp; `↓` soft drop &nbsp;·&nbsp; `space` hard drop*
 </div>
+
 ---
 
 ## 🧠 Focus areas
