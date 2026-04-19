@@ -35,20 +35,14 @@ Final-year CS & AI student at **ESPRIT** building at the intersection of generat
 > *"The best way to predict the future is to build it."*
 
 ---
-
 ## 🕹️ Can you beat my Tetris score?
-
 <div align="center">
 
-<!-- Replace the line below once you have your GIF recorded -->
-<!-- [![Play Tetris](assets/tetris-preview.gif)](https://www.youcef-ouhab.com/tetris) -->
+![Tetris Preview](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGIxMWZjdTEzeTE1c21qMWhhdWliZHMxdm1ocDBhMGc2aW83YW1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrhpJt1hFqgCI/giphy.gif)
 
 **[▶ Play now — youcef-ouhab.com/tetris](https://www.youcef-ouhab.com/tetris)**
-
 *`← →` move &nbsp;·&nbsp; `↑` rotate &nbsp;·&nbsp; `↓` soft drop &nbsp;·&nbsp; `space` hard drop*
-
 </div>
-
 ---
 
 ## 🧠 Focus areas
