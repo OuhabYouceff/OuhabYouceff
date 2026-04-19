@@ -38,7 +38,7 @@ Final-year CS & AI student at **ESPRIT** building at the intersection of generat
 ## 🕹️ Can you beat my Tetris score?
 <div align="center">
 
-![Tetris Preview](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGIxMWZjdTEzeTE1c21qMWhhdWliZHMxdm1ocDBhMGc2aW83YW1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrhpJt1hFqgCI/giphy.gif)
+![Tetris Preview](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB1bTg4eWs0N3J0bnJpMmE3cTdjdXY5N2s0d3JscGxhYmZ4eTQ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MOSebUr4rvZS0/giphy.gif)
 
 **[▶ Play now — youcef-ouhab.com/tetris](https://www.youcef-ouhab.com/tetris)**
 *`← →` move &nbsp;·&nbsp; `↑` rotate &nbsp;·&nbsp; `↓` soft drop &nbsp;·&nbsp; `space` hard drop*
