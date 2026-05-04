@@ -32,7 +32,7 @@
 
 Final-year CS & AI student at **ESPRIT** building at the intersection of generative AI, predictive analytics, and real-world product engineering. Currently founding a startup. Passionate about multimodal AI and sustainable tech — not just as research, but as **things worth shipping**.
 
-> *"The best way to predict the future is to build it."*
+> *"I can see the future that I always desired as clear as a glass of water."*
 
 ---
 
